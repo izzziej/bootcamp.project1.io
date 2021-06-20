@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*================================= HEADER SECTION =================================*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*==================================== Left Side Content Box =================================*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*===================================== Main Content Boxes ===================================*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*======================================== Footer Section ================================================*/
 .footer {
     padding: 30px;
     clear: both;
